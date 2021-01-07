@@ -11,7 +11,7 @@ class Workspace():
         self.config = {
             # global config
             'log_dir': "logs",
-            'root_dir': "/home/rogue/datasets/rafdb-aligned",
+            'root_dir': "/path/to/fer/dataset",
             'deterministic': False,
             'seed': 0,
             'workers': 4,
