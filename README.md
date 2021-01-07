@@ -48,6 +48,7 @@ path/to/fer/dataset/
         ...
         06/ # subdirectory containing images from class 6 (disgust)
 ```
+5. modify the dataset `root_dir` in `workspace.py` at [line 14](https://github.com/amirhfarzaneh/dacl/blob/304fe7ec16d5af63504d2415c6dd1bc96149950a/workspace.py#L14)
 
 ## Training
 To train DACL initialized with **msceleb** weights on a single GPU for 10 epochs run:
