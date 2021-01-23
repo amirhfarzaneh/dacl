@@ -1,4 +1,5 @@
 # DACL: Facial Expression Recognition in the Wild via Deep Attentive Center Loss
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/facial-expression-recognition-in-the-wild-via/facial-expression-recognition-on-raf-db)](https://paperswithcode.com/sota/facial-expression-recognition-on-raf-db?p=facial-expression-recognition-in-the-wild-via)
 PyTorch training code and pretrained models for **DACL** (**D**eep **A**ttentive **C**enter **L**oss). We propose an attention network to adaptively select a subset of significant feature elements for enhanced facial expression discrimination. The attention network estimates attention weights across all feature dimensions to accommodate the sparse formulation of center loss to selectively achieve intra-class compactness and inter-class separation for the relevant information in the embedding space.
 
 ![DACL](.github/dacl-pipeline.png)
