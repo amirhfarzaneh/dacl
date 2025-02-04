@@ -26,7 +26,7 @@ We provide the trained DACL model and other baseline models with softmax loss an
 - tqdm
 ```
 
-2. Download ms-celeb pretrained model for weight initialization: [Google Drive]([https://drive.google.com/file/d/1H421M8mosIVt8KsEWQ1UuYMkQS8X1prf/view?usp=sharing](https://drive.google.com/file/d/16uPBWtSfVOJvlxMnb0xg6sOP3-zhHsx3/view?usp=sharing)
+2. Download ms-celeb pretrained model for weight initialization: [Google Drive Link](https://drive.google.com/file/d/16uPBWtSfVOJvlxMnb0xg6sOP3-zhHsx3/view?usp=sharing)
 3. clone this repository:
 ```bash
 git clone https://github.com/amirhfarzaneh/dacl
